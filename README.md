@@ -4,7 +4,7 @@
 **leorodriguesw/leorodriguesw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-![Bem Vindo :wave: ](https://www.google.com/url?sa=i&url=https%3A%2F%2Fthenewscc.com.br%2Feconomia%2Fesse-estagiario-todo-mundo-quer-ser%2F&psig=AOvVaw1YcpATAscm07mg1Xh7bY9Y&ust=1678562679833000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNi0-7aL0v0CFQAAAAAdAAAAABAQ) 
+![Bem Vindo :fist_right:](https://thenewscc.com.br/wp-content/uploads/2022/04/motivo-03.gif) 
 
 - :mortar_board: Atualmente estou cursando [Informática para Negócios](http://www.fatecmaua.com.br/informatica-para-negocios/) na __FATEC__ __Mauá__
 - :trophy: Cursando Desenvolvimento Front-End com Parceria da [Ford](https://www.fordenter.ford.com/) no __SENAI__ __Ipiranga__ 
