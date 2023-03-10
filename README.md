@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Atualmente estou cursando Informática para Negócios na FATEC Mauá
-- 🌱 Cursando Desenvolvimento Front-End com Parceria da Ford Fund no SENAI Ipiranga ...
-- 🤔 Santo André - SP
+- 🔭 Atualmente estou cursando Informática para Negócios na _FATEC_ _Mauá_
+- :trophy: Cursando Desenvolvimento Front-End com Parceria da Ford Fund no _SENAI_ _Ipiranga_ ...
+- :globe_with_meridians: Santo André - SP
 - 💬 Interesse nas seguintes areas: Front End, Back End e Dados.
-- 📫 Adquirindo conhecimento em: SQl, C++, Hmtl, Css e Python.
+- 🤔 Adquirindo conhecimento em: SQl, C++, Hmtl, Css e Python.
 
 
