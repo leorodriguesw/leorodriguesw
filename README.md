@@ -1,5 +1,4 @@
-### Hello, Mundo? Eu sou o Leonardo Rodrigues 👋
-## Seja Bem Vindo :fist_right: 
+### Hello, Mundo! Eu sou o Leonardo Rodrigues 👋
 
 ![Bem Vindo](https://thenewscc.com.br/wp-content/uploads/2022/04/motivo-03.gif) 
 
