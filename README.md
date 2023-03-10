@@ -1,10 +1,7 @@
 ### Hello, Mundo? Eu sou o Leonardo Rodrigues 👋
+                                                       ## Seja Bem Vindo :fist_right: <h2>
 
-
-**leorodriguesw/leorodriguesw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-![Bem Vindo :fist_right:](https://thenewscc.com.br/wp-content/uploads/2022/04/motivo-03.gif) 
+![Bem Vindo](https://thenewscc.com.br/wp-content/uploads/2022/04/motivo-03.gif) 
 
 - :mortar_board: Atualmente estou cursando [Informática para Negócios](http://www.fatecmaua.com.br/informatica-para-negocios/) na __FATEC__ __Mauá__
 - :trophy: Cursando Desenvolvimento Front-End com Parceria da [Ford](https://www.fordenter.ford.com/) no __SENAI__ __Ipiranga__ 
