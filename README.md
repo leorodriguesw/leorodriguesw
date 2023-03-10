@@ -8,4 +8,9 @@
 - 💬 Interesse nas seguintes areas: Front End, Back End e Dados.
 - 🤔 Adquirindo conhecimento em: SQl, C++, Hmtl, Css e Python.
 
+### :medal_military: Minhas Certificações
 
+- :dart: Excel Intermediário - __Fundação Bradesco__
+- :dart: Python Basics - __Santander Coders__
+- :dart: Auxiliar de Escritório - __Fundação Salvador Arena__
+- :dart: Tecnologia da Informação e Comunicação - __SENAI__
